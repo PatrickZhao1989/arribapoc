@@ -1,0 +1,9 @@
+{
+	"name": "arribaadfdemo",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82472b83-8c1b-47e3-af54-8950a37bb058",
+		"tenantId": "06551002-24c6-4591-a337-0154ffdb076d"
+	}
+}
