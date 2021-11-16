@@ -1,0 +1,16 @@
+{
+	"name": "publicdepartment",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ArribaPoc",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "PostgreSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "public",
+			"table": "department"
+		}
+	}
+}
